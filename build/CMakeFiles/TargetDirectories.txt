@@ -1,0 +1,3 @@
+/Users/tokorofumiya/Desktop/TA_winter/build/CMakeFiles/a.out.dir
+/Users/tokorofumiya/Desktop/TA_winter/build/CMakeFiles/edit_cache.dir
+/Users/tokorofumiya/Desktop/TA_winter/build/CMakeFiles/rebuild_cache.dir
